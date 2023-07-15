@@ -26,12 +26,12 @@
 
 .web-l {
     color: var(--iriscolor);
-    
+
 }
 
 .studio-l {
     color: var(--navyblue, #2E2F42);
-   
+
 }
 
 .navbar .pages {
@@ -75,7 +75,7 @@
 .button-container-div {
     width: 100%;
     display: flex;
-    
+
 }
 
 .h1-title {
@@ -104,18 +104,19 @@
 }
 
 /*---- Portfolio page ----*/
-.btn.primary2 { 
+.btn.primary2 {
     background: var(--ocean, #404BBF);
     color: var(--white, #FFF);
     text-align: center;
     display: flex;
     align-items: flex-start;
-/* Button Text */
-    font-family: Roboto; 
+    /* Button Text */
+    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 150% */
+    line-height: 24px;
+    /* 150% */
     letter-spacing: 0.64px;
 }
 
@@ -128,12 +129,13 @@
     background: var(--cloud, #F4F4FD);
     color: var(--iris, #4D5AE5);
     text-align: center;
-/* Button Text */
+    /* Button Text */
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 150% */
+    line-height: 24px;
+    /* 150% */
     letter-spacing: 0.64px;
 }
 
@@ -146,12 +148,13 @@
     background: var(--cloud, #F4F4FD);
     color: var(--iris, #4D5AE5);
     text-align: center;
-/* Button Text */
+    /* Button Text */
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 150% */
+    line-height: 24px;
+    /* 150% */
     letter-spacing: 0.64px;
 }
 
@@ -164,12 +167,13 @@
     background: var(--cloud, #F4F4FD);
     color: var(--iris, #4D5AE5);
     text-align: center;
-/* Button Text */
+    /* Button Text */
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 150% */
+    line-height: 24px;
+    /* 150% */
     letter-spacing: 0.64px;
 }
 
@@ -182,14 +186,16 @@
     background: var(--cloud, #F4F4FD);
     color: var(--iris, #4D5AE5);
     text-align: center;
-/* Button Text */
+    /* Button Text */
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 150% */
+    line-height: 24px;
+    /* 150% */
     letter-spacing: 0.64px;
 }
+
 .btn.primary:hover,
 .btn.primary:focus {
     background-color: hotpink;
@@ -230,13 +236,13 @@
 
 .web-logo {
     color: var(--iriscolor);
-    
+
 
 }
 
 .studio-logo2 {
     color: var(--whitecolor);
-    
+
 
 
 }
