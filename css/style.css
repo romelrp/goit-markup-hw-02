@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD:css/style.css
-=======
->>>>>>> 2fdfd315880373bd70210374634399e1d0de6d47
 /*-----------------------------------*\
   #style.css
 \*-----------------------------------*/
@@ -27,27 +23,16 @@
     font-weight: 800;
 }
 
-<<<<<<< HEAD
-.web-l {
-=======
 .web-logo {
->>>>>>> 2fdfd315880373bd70210374634399e1d0de6d47
     color: var(--iriscolor);
     font-weight: bold;
 }
 
-<<<<<<< HEAD
-.studio-l {
-    color: var(--navyblue);
-    font-weight: bold;
-}
-=======
 .studio-logo {
     color: var(--navyblue);
     font-weight: bold;
 }
 
->>>>>>> 2fdfd315880373bd70210374634399e1d0de6d47
 .navbar .pages{
     color: var(--navcolor);
     text-decoration: none;
@@ -182,11 +167,7 @@
     color: var(--whitecolor);
     width: 265px;
     height: 70px;
-<<<<<<< HEAD
-    text-justify: left;
-=======
     text-justify: auto;
->>>>>>> 2fdfd315880373bd70210374634399e1d0de6d47
     margin-top: 4em;
    
  }
