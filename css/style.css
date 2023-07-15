@@ -69,14 +69,13 @@
 \*-----------------------------------*/
 .bg-section1 {
     background-color: var(--navyblue);
-    height: 300px;
+    height: 220px;
 }
 
 .button-container-div {
     width: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 .h1-title {
