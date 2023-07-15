@@ -26,12 +26,12 @@
 
 .web-l {
     color: var(--iriscolor);
-    font-weight: bold;
+    
 }
 
 .studio-l {
     color: var(--navyblue, #2E2F42);
-    font-weight: bold;
+   
 }
 
 .navbar .pages {
@@ -129,6 +129,7 @@
     background: var(--cloud, #F4F4FD);
     color: var(--iris, #4D5AE5);
     text-align: center;
+/* Button Text */
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
