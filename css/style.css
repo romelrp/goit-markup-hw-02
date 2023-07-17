@@ -9,10 +9,11 @@
     --whitecolor: white;
     --slatecolor: #434455;
     --cloud: #f4f4fd;
+    --ocean: #404bbf;
 }
 
 /*----Checked----*/
-.body {
+body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     letter-spacing: 0.03em;
@@ -62,8 +63,8 @@
 .nav-menu.list .page:hover,
 .nav-menu.list .page:focus,
 .nav-menu.list .page.current,
-.contact-menu.list .item:hover,
-.contact-menu.list .item:focus {
+.contacts-menu .item:hover,
+.contacts-menu .item:focus {
     color: var(--iriscolor);
 }
 
